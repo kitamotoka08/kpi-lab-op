@@ -1,0 +1,20 @@
+{
+  "name": "labi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitamotoka08/kpi-lab-op.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitamotoka08/kpi-lab-op/issues"
+  },
+  "homepage": "https://github.com/kitamotoka08/kpi-lab-op#readme"
+}
