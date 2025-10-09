@@ -17,7 +17,10 @@
     "url": "https://github.com/kitamotoka08/kpi-lab-op/issues"
   },
   "homepage": "https://github.com/kitamotoka08/kpi-lab-op#readme",
-  "dependencies": {
-    "labi": "link:"
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "eslint": "^9.37.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.4.0"
   }
 }
